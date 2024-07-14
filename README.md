@@ -20,4 +20,6 @@ This application is deployed using Netlify - https://669397cddc51f311879bc9cf--s
 
 ## Performance 
 
+Web performance as per Google page speed insight
+
 <img width="609" alt="image" src="https://github.com/user-attachments/assets/1e75c345-10ad-49bc-9238-c59ba431939e">
