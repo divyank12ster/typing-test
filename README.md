@@ -1,6 +1,7 @@
 ## Overview
 
 This is a Vanilla Javascript based application that allows users to test their typing speed. 
+This application is deployed using Netlify - https://669397cddc51f311879bc9cf--soft-fox-6c2d2e.netlify.app/
 
 ✅ Detects keyboard strokes and matches with the target test 
 
@@ -15,3 +16,8 @@ This is a Vanilla Javascript based application that allows users to test their t
 ✅ Calculates no of charachter typed 
 
 ✅ The text assembly line doesnot proceed for wrong input
+
+
+## Performance 
+
+<img width="609" alt="image" src="https://github.com/user-attachments/assets/1e75c345-10ad-49bc-9238-c59ba431939e">
